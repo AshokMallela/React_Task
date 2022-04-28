@@ -45,10 +45,9 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin:10%;
   padding: 7%;
-  background-image: linear-gradient(to top, rgba(123, 255, 0, 0.37), rgba(253, 69, 69, 0.438));
+background-color: #282c34;
   background-size: cover;
 
 
