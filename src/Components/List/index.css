@@ -1,0 +1,23 @@
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    margin: 10px;
+
+    background-color: aliceblue;
+}
